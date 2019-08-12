@@ -1,0 +1,28 @@
+.hiding{
+  display: none;
+}
+
+.showing{
+  display: block;
+}
+
+h4{
+  float: left;
+  margin: 0;
+  margin-right: 10px;
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+}
+
+span{
+  margin-left: 10px;
+}
+
+.weather{
+  position: fixed;
+  top: 15px;
+  right: 30px;
+}
